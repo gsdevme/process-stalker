@@ -23,5 +23,5 @@ do
       fi
     done < "$input"
 
-    sleep 5m
+    sleep 2m
 done
